@@ -1,0 +1,33 @@
+.card{
+    width: 18rem !important;
+    display: inline-flex !important;
+    justify-content: space-between !important;
+    background-color: white !important;
+    cursor: pointer !important;
+    height: 22rem;
+    display: flex;
+        
+
+}
+.card-header{
+    color: rgb(240, 19, 52) !important;
+    background-color: rgb(74, 19, 161);
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.card-footer{
+    display: flex;
+    background-color: rgba(23, 11, 190, 0.441);
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+
+
+
