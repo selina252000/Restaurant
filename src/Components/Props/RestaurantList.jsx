@@ -42,7 +42,7 @@ const RestaurantList=(props)=> {
                             className="btn btn-primary text-dark"
                             onClick={() => handleClick(item.resName)}
                           >
-                            Click to order
+                            Click  for menu
                           </button>
                         </div>
                       </div>
